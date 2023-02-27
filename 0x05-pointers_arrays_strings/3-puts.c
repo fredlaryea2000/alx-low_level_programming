@@ -1,5 +1,3 @@
-nes (14 sloc)  216 Bytes
-
 #include "main.h"
 /**
  * _puts - prints a string to stdout
